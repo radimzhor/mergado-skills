@@ -17,6 +17,10 @@ A collection of Claude Code skills for working with [Mergado](https://www.mergad
 | **mergado-products-export** | Patterns for reading product element values from Mergado without overloading context |
 | **mergado-rules** | Complete reference for creating and managing rules via API — all rule types, formats, priorities |
 
+## MCP Setup
+
+`mergado-install-prompt-for-client.md` — a ready-made prompt you can send to clients to guide them through installing the Mergado MCP server in Claude Code.
+
 ## Installation
 
 Copy the skill folders into your Claude Code skills directory:
