@@ -19,7 +19,7 @@ A collection of Claude Code skills for working with [Mergado](https://www.mergad
 
 ## MCP Setup
 
-`mergado-install-prompt-for-client.md` — a ready-made prompt you can send to clients to guide them through installing the Mergado MCP server in Claude Code.
+`mergado-install-prompt-for-client.md` — step-by-step instructions for connecting Mergado to Claude Code via MCP. Start here if you haven't set it up yet.
 
 ## Installation
 
